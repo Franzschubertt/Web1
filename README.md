@@ -1,6 +1,7 @@
 # Web1
 
-Repositório destinado ao armazenamento e à organização de atividades acadêmicas desenvolvidas durante os estudos de desenvolvimento web.
+Repositório destinado ao armazenamento e à organização de atividades acadêmicas 
+desenvolvidas durante os estudos de desenvolvimento web.
 
 Objetivo
 
@@ -18,3 +19,14 @@ Provas/ — Arquivos e atividades relacionados às avaliações acadêmicas.
 
 Praticas/ — Atividades práticas desenvolvidas para aplicar os conhecimentos adquiridos.
 
+Organização e Finalidade
+
+Este repositório tem finalidade acadêmica e educacional.
+
+ servindo como registro do desenvolvimento das habilidades técnicas.]
+
+ da prática de programação e da evolução ao longo da formação.
+
+Autor: Franz Schubert
+Repositório: Web1
+Finalidade: Estudos acadêmicos, exercícios, avaliações e práticas de desenvolvimento web.
