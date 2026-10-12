@@ -26,5 +26,7 @@ Este repositório tem finalidade acadêmica e educacional.
  da prática de programação e da evolução ao longo da formação.
 
 Autor: Franz Schubert
-Repositório: Web1
-Finalidade: Estudos acadêmicos, exercícios, avaliações e práticas de desenvolvimento web.
+
+Repositório: Web1 Finalidade: Estudos acadêmicos, exercícios.
+
+avaliações e práticas de desenvolvimento web.
