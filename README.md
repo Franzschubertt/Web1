@@ -13,8 +13,6 @@ Estrutura do Repositório
 
 Aulas/ — Arquivos e exemplos desenvolvidos durante as aulas.
 
-Exercicios/ — Exercícios realizados para praticar e fixar os conteúdos estudados.
-
 Provas/ — Arquivos e atividades relacionados às avaliações acadêmicas.
 
 Praticas/ — Atividades práticas desenvolvidas para aplicar os conhecimentos adquiridos.
