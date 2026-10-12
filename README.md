@@ -1,7 +1,7 @@
 # Web1
 
-Repositório destinado ao armazenamento e à organização de atividades acadêmicas 
-desenvolvidas durante os estudos de desenvolvimento web.
+Repositório destinado ao armazenamento e à organização de atividades 
+acadêmicas desenvolvidas durante os estudos de desenvolvimento web.
 
 Objetivo
 
