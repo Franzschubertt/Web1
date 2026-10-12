@@ -17,3 +17,4 @@ Exercicios/ — Exercícios realizados para praticar e fixar os conteúdos estud
 Provas/ — Arquivos e atividades relacionados às avaliações acadêmicas.
 
 Praticas/ — Atividades práticas desenvolvidas para aplicar os conhecimentos adquiridos.
+
