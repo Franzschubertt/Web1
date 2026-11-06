@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reserva</title>
+  </head>
+  <body>
+    <table border="1" cellpadding="20" width="600" cellspacing="0">
+      <tr>
+        <td>
+          <!-- Link para a página principal -->
+          <a href="./11.1.restaurante_mineiro/index.html">Página Principal</a>
+
+          <h2 align="center">Reservas</h2>
+          <form
+            action="mailto:contato@restaurantemineiro.com.br"
+            method="post"
+            enctype="text/plain"
+          >
+            <p>
+              <label for="nome"><b>Nome:</b></label
+              ><br />
+              <input type="text" id="nome" name="nome" size="40" required />
+            </p>
+
+            <p>
+              <b>Telefone de Contato:</b><br />
+              <label for="ddd">DDD:</label>
+              <input
+                type="tel"
+                id="ddd"
+                name="ddd"
+                placeholder="DDD"
+                size="5"
+                maxlength="2"
+                required
+              />
+              <label for="telefone">Telefone:</label>
+              <input
+                type="tel"
+                id="telefone"
+                name="telefone"
+                placeholder="Telefone"
+                size="20"
+                required
+              />
+            </p>
+
+            <p>
+              <label for="data"><b>Data da reserva:</b></label
+              ><br />
+              <input type="date" id="data" name="data" required />
+            </p>
+
+            <p><b>Mesa para Quantas pessoas?</b></p>
+
+            <input
+              type="radio"
+              id="2-pessoas"
+              name="quantidade_pessoas"
+              value="2"
+              required
+            />
+            <label for="2-pessoas">2 Pessoas</label><br />
+
+            <input
+              type="radio"
+              id="4-pessoas"
+              name="quantidade_pessoas"
+              value="4"
+            />
+            <label for="4-pessoas">4 Pessoas</label><br />
+
+            <input
+              type="radio"
+              id="6-pessoas"
+              name="quantidade_pessoas"
+              value="6"
+            />
+            <label for="6-pessoas">6 Pessoas</label>
+            <p><b>Escolha o horário:</b></p>
+
+            <input
+              type="radio"
+              id="horario-18"
+              name="horario"
+              value="18:00"
+              required
+            />
+            <label for="horario-18">A partir das 18:00 horas</label><br />
+
+            <input type="radio" id="horario-20" name="horario" value="20:00" />
+            <label for="horario-20">A partir das 20:00 horas</label><br />
+
+            <input type="radio" id="horario-22" name="horario" value="22:00" />
+            <label for="horario-22">A partir das 22:00 horas</label><br /><br />
+            <input type="submit" value="Enviar Reserva" />
+          </form>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
